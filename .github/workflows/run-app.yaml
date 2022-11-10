@@ -1,4 +1,4 @@
-name: 'Wil Koumak'
+name: 'Wil Koumaka'
 
 on: [push, pull_request]
 
